@@ -1,6 +1,3 @@
 # RCArduinoCar
 
--remote control\n
--obstacle detect\n
--line follower\n
--Battery voltage Monitoring
+-remote control, obstacle detect, line follower, Battery voltage Monitoring
